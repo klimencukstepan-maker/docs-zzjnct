@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://handbook-73ybzx.radarsatu88.shop/sitemap.xml
